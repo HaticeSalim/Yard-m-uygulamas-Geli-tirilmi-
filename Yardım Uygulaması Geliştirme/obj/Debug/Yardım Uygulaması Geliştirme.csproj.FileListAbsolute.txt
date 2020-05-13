@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\bin\Debug\Yardım Uygulaması Geliştirme.exe.config
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\bin\Debug\Yardım Uygulaması Geliştirme.exe
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\bin\Debug\Yardım Uygulaması Geliştirme.pdb
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım Uygulaması Geliştirme.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form1.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Properties.Resources.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım Uygulaması Geliştirme.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım Uygulaması Geliştirme.exe
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım Uygulaması Geliştirme.pdb
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form2.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form3.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form4.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form5.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form6.resources
+C:\Users\pc\source\repos\Yardım Uygulaması Geliştirme\Yardım Uygulaması Geliştirme\obj\Debug\Yardım_Uygulaması_Geliştirme.Form7.resources
